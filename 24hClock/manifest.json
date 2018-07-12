@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2, 
+    "name": "24hClock", 
+    "version": "1.0", 
+    "description": "A pretty 24h clock plugin! Good for treat stay up late",
+    "icons": {
+        "16": "24hClock_ico.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "24hClock_ico.png",
+            "38": "24hClock_ico.png"
+        },
+        "default_title": "24h Clock",
+        "default_popup": "popup.html"
+    }
+}
