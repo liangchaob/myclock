@@ -75,6 +75,8 @@
 					// 环色开始结束点
 					circle_start = current_time_rotate;
 					circle_end = piT(t_sleep);
+					pre_circle_start = piT(t_getup);
+					pre_circle_end = current_time_rotate;
 					// 环色
 					circle_color = '#009900';
 				}else{
@@ -92,7 +94,9 @@
 					addition_desc_color = "#FF0000";
 					// 环色开始结束点
 					circle_start = piT(t_sleep);
-					circle_end = current_time_rotate;	
+					circle_end = current_time_rotate;
+					pre_circle_start = current_time_rotate;
+					pre_circle_end = piT(t_getup);
 					circle_color = "#CC0000";		
 				};
 
@@ -110,6 +114,13 @@
 					c.rotate(Math.PI/12); //每个30deg画一个时钟刻度线
 					c.closePath();
 				};
+
+				// 过去的时间
+				c.beginPath();
+				c.strokeStyle = circle_color;
+				c.arc(0,0,140,pre_circle_start,pre_circle_end);
+				c.lineWidth = 1;
+				c.stroke();	 
 
 				// 19~23绿线
 				c.beginPath();

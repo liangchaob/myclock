@@ -1,5 +1,5 @@
 # MyClock
-This is a 24-hour js clock, produced by html5-canvas, to treat the author sleep too late.
+This is a 24-hour js clock, produced by html5-canvas, to treat the author's stay up late.
 
 这是一个24小时制的js小时钟, 使用 html5 canvas 制作,用于治疗作者的晚睡综合症.
 
