@@ -6,11 +6,13 @@ This is a 24-hour js clock, produced by html5-canvas, to treat the author's stay
 ![day.png](https://i.loli.net/2018/07/12/5b4724538206a.png)
 ![night.png](https://i.loli.net/2018/07/12/5b4724538cce9.png)
 
-Chrome Plugin version
+Mac DMG version
 
 MAC版本[下载](https://static.liangchao.site/24h-Clock-1.0.4.dmg)
 
 [屏幕快照 2019-01-27 03.52.16.png](https://i.loli.net/2019/01/27/5c4cba89135d4.png)
+
+Chrome Plugin version
 
 Chrome 插件版本 [下载](https://chrome.google.com/webstore/detail/24hclock/nhdmckjnclnoioojkpgfghcokbmklfpo?hl=zh-CN)
 
