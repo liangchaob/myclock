@@ -10,7 +10,7 @@ Mac DMG version
 
 MAC版本[下载](https://static.liangchao.site/24h-Clock-1.0.4.dmg)
 
-[屏幕快照 2019-01-27 03.52.16.png](https://i.loli.net/2019/01/27/5c4cba89135d4.png)
+![屏幕快照 2019-01-27 03.52.16.png](https://i.loli.net/2019/01/27/5c4cba89135d4.png)
 
 Chrome Plugin version
 
